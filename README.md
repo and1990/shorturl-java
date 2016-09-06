@@ -1,2 +1,3 @@
 # shorturl-java
-short url service
+A short url service.
+
